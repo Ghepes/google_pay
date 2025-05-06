@@ -1,23 +1,24 @@
 # google_pay
 google pay buton
 
-# Google Pay for Web
+# Google Pay for Web - Click Preview
 
-<!--- Open in Preview button -->
-<a href="https://avatars.githubusercontent.com/u/39159631?s=57&v=4">
+<!-- Open in Preview button for GPay Page -->
+Click my preview <a href="https://ghepes.github.io/google_pay/" target="_blank" rel="noopener">
   <picture>
     <source
       media="(prefers-color-scheme: dark)"
-      srcset="https://avatars.githubusercontent.com/u/39159631?s=57&v=4">
+      srcset="https://www.gstatic.com/instantbuy/svg/dark_gpay.svg">
     <source
       media="(prefers-color-scheme: light)"
-      srcset="https://avatars.githubusercontent.com/u/39159631?s=57&v=4">
+      srcset="https://www.gstatic.com/instantbuy/svg/light_gpay.svg">
     <img
       height="32"
-      alt="Open in IDX"
-      src="https://avatars.githubusercontent.com/u/39159631?s=57&v=4">
+      alt="Open in GPay Preview"
+      src="https://www.gstatic.com/instantbuy/svg/dark_gpay.svg">
   </picture>
 </a>
+
 
 ## About
 
