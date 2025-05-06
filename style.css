@@ -1,0 +1,48 @@
+/* Reset și stiluri de bază */
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+  }
+  
+  body {
+    font-family: Arial, sans-serif;
+    background: #f0f2f5;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    min-height: 100vh;
+    padding: 20px;
+  }
+  
+  .content {
+    max-width: 600px;
+    width: 100%;
+    background: #ffffff;
+    padding: 30px;
+    border-radius: 8px;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+    text-align: center;
+  }
+  
+  /* Stiluri pentru mesajul informativ */
+  .info {
+    font-size: 0.9rem;
+    color: #555;
+    margin-top: 15px;
+  }
+  
+  /* Stiluri pentru secțiunea cu instrucțiuni */
+  .instructions {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+    margin-top: 20px;
+  }
+  
+  .instructions p {
+    font-size: 0.95rem;
+    color: #333;
+  }
+  
